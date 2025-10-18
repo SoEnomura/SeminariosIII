@@ -19,4 +19,5 @@ Objetivo: Criar um quiz interativo com som, vibração e luzes, permitindo que a
 
 ## Visualização do Projeto:
 
-O circuito está disponível de forma digital através da plataforma _Tinkercad_, e pode ser acessado pelo [link](https://www.tinkercad.com/things/6cYwfSKgR4x-seminariosiii?sharecode=zDdCDxu0NLiHi7FR-LHOE3Krh1nnxZV_Nf8ekjKOBH0).
+- O circuito está disponível de forma digital através da plataforma _Tinkercad_, e pode ser acessado pelo [link](https://www.tinkercad.com/things/6cYwfSKgR4x-seminariosiii?sharecode=zDdCDxu0NLiHi7FR-LHOE3Krh1nnxZV_Nf8ekjKOBH0).
+- O código está disponível neste mesmo <a href="quiz.ino"> repositório</a>.
